@@ -1,1 +1,1 @@
-# grandcore.github.io
+# grandcore.org
